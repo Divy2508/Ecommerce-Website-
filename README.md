@@ -1,10 +1,5 @@
 ## ecommerce website with PHP MYSQLI BS AJAX JS
 
-# sql back up avalible in sql folder 
-
-## login
-* usermail : test@test.com
-* password : 123456789
 
 ## features
 * register (validation added)
